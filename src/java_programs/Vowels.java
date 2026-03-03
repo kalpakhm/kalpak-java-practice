@@ -1,4 +1,4 @@
-package basics;
+package java_programs;
 
 public class Vowels {
 
