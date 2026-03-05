@@ -52,3 +52,15 @@ public class HashMapPractise {
 	
 	}
 }
+
+/*
+  Stores Key → Value
+
+Keys must be unique
+
+Values can be duplicate
+
+Allows one null key
+
+Not ordered
+*/

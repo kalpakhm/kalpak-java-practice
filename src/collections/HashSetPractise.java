@@ -2,7 +2,7 @@ package collections;
 
 import java.util.HashSet;
 
-public class HashPractise {
+public class HashSetPractise {
 
 	public static void main(String[] args) {
 		

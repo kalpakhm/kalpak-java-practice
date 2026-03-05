@@ -4,6 +4,8 @@ import java.util.Map;
 
 public class LinkedHashMapPractice {
 	
+	//It stores key-value pairs like HashMap, but maintains insertion order.
+	
 	public static void main(String[] args) {
 		LinkedHashMap<Integer,String> map=new LinkedHashMap<>();
 		
